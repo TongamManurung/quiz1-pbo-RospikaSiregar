@@ -1,0 +1,16 @@
+GPT :
+ dengan soal Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. kode bahasa c sebuah program yang mampu menentukan total nilai yang hanya untuk kelompok yang diminta 
+ini inputnya 
+1.Jumlah total data (N). 
+2.Deret nilai (n1, n2, …, n). 
+3.Kode kelompok siswa
+dan boleh pake Array
+
+Gemini :
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan.
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan.
+dengan inputan
+1.Jumlah total data (N). 
+2.Deret nilai (n1, n2, …, n). 
+3.Kode kelompok siswa
+dan boleh pake Array

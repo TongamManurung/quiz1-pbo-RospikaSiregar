@@ -1,0 +1,12 @@
+GEMINI :
+code bahasa C sebuah program membuat sisitem perhitungan  pembayaran yang dilakukan mereka setelah melakukan transaksi 
+dengan input
+ NGS 
+[Porsi Butet]
+AP
+[Porsi Butet]
+GG
+[Porsi Butet]
+END
+
+dan output

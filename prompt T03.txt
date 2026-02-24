@@ -1,0 +1,11 @@
+GEMINI :
+1.bantu saya membuat sebuah program dimana sebuah sistem yaitu sistem kasir  pada laundri di del  dalam sehari hari dalam mendukung operasional pada sistem loundry tersebut 
+apa aja yang diperlukan, apakah perlu penggunaananya
+2.dalam bahasa C
+3.selain sistem kasir ,sistem apa aja yang dapat mendukung
+4.buat kan Sistem Manajemen Member & Loyalitas dengan jelas dan logika apa input dan output nya
+5.buatkan instruksi inputnya
+
+GPT :
+1.bantu saya membuat sebuah program dimana sebuah sistem yaitu sistem member  pada laundri di del  dalam sehari hari dalam mendukung operasional pada sistem loundry tersebut  
+apa aja yang diperlukan, apakah perlu penggunaananya
